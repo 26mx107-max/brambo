@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Brambo
 
 A dark, Letterboxd-inspired web series tracker. Browse live TMDB data, log episodes, save shows for later, write reviews and build a profile.
@@ -74,3 +75,6 @@ server/     server.js  seed.js  package.json  .env.example
 - Activity data (progress, favourites, reviews) lives in the browser, and the friends' feed is simulated.
 - No rate limiting or email verification on the auth endpoints.
 - A TMDB key is required; without it the pages show a "key required" message.
+=======
+# brambo
+>>>>>>> 81eab3a1ff884725347b5a5af8cc64f54b205c27
